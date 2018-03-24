@@ -6,6 +6,8 @@
 大家好, 我是xxx
 \
 大家好，我是xxx
+\
+大家好，我是george
 
 ## 设置git
 git config --global user.name "你的账号"
